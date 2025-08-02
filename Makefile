@@ -12,6 +12,7 @@ INSTALL ?= install
 
 PREFIX ?= /usr/local
 SHAREDIR ?= ${PREFIX}/share
+MANPREFIX ?= /usr/local/share/man
 
 SRC = abduco.c
 
