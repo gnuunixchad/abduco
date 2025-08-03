@@ -26,7 +26,7 @@ abduco -a my-session
 
 # Kill a session
 pgrep -a abduco
-pkill PID
+kill PID
 ```
 
 ## Environments
