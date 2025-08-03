@@ -13,8 +13,11 @@ Manage abduco sessions with my build of dvtm(
 [codeberg](https://codeberg.org/unixchad/dvtm) or
 [github](https://github.com/gnuunixchad/dvtm))
 ```sh
-# Create a new session
+# Create a new session with dvtm
 abduco -c my-session
+
+# Create a new session with any other command
+abduco -c my-command COMMAND
 
 # Detached a session: `CTRL-\`
 
