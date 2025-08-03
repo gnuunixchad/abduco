@@ -34,7 +34,7 @@ kill PID
 
 ## Environments
 ```sh
-export ABDUCO_SOCKET_DIR=/$XDG_RUNTIME_DIR
+export ABDUCO_SOCKET_DIR=$XDG_RUNTIME_DIR
 ```
 
 ## License
