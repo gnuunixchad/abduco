@@ -1,4 +1,4 @@
-# My build of [abduco](https://github.com/martanne/abduco) a tool for session {at,de}tach support
+# <img src="./misc/abduco-repo.png" width="24"/> My build of [abduco](https://github.com/martanne/abduco) a tool for session {at,de}tach support
 ![](./misc/screenshot.png)
 
 [abduco](https://www.brain-dump.org/projects/abduco) provides
