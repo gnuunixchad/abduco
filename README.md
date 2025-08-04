@@ -37,6 +37,9 @@ kill PID
 export ABDUCO_SOCKET_DIR=$XDG_RUNTIME_DIR
 ```
 
+## Dependencies
+- None
+
 ## License
 
 abduco is licensed under the [ISC license](https://raw.githubusercontent.com/martanne/abduco/master/LICENSE)
